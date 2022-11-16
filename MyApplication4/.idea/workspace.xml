@@ -10,7 +10,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54fe1599-10d6-4a3b-aa66-25883ca1f281" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/androidTest/java/com/example/mybrowser/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-anydpi/ic_action_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-anydpi/ic_action_forward.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-anydpi/ic_action_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-hdpi/ic_action_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-hdpi/ic_action_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-hdpi/ic_action_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-mdpi/ic_action_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-mdpi/ic_action_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-mdpi/ic_action_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xhdpi/ic_action_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xhdpi/ic_action_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xhdpi/ic_action_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xxhdpi/ic_action_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xxhdpi/ic_action_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/debug/res/drawable-xxhdpi/ic_action_home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/java/com/example/mybrowser/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/app/src/test/java/com/example/mybrowser/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBrowser/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +87,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G7ktE5JNQbgtRfWNp27tWJIuME" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,5 +171,16 @@
       <updated>1665747229357</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
